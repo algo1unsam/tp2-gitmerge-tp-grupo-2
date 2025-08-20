@@ -5,7 +5,5 @@ object algoritmo {
     }
 }
 
-object buenosAires {}
-
 
 object formosa {}
