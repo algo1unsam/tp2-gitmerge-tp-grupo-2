@@ -1,19 +1,13 @@
 object algoritmo {
   
   method color() { 
-<<<<<<< HEAD
-    return "Rosa palido"
+        return "verde"
     }
 }
 
 object buenosAires {}
 
 object laPampa {}
-=======
-    return "verde"
-    }
-}
 
 
 object formosa {}
->>>>>>> refs/remotes/origin/main
