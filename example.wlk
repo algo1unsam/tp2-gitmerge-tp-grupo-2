@@ -1,7 +1,7 @@
 object algoritmo {
   
   method color() { 
-        return "verde"
+        return "rojo"
     }
 }
 
@@ -11,3 +11,5 @@ object laPampa {}
 
 
 object formosa {}
+
+object misiones {}
