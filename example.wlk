@@ -1,7 +1,7 @@
 object algoritmo {
   
   method color() { 
-        return "Naranja claro"
+    return "blanco"
     }
 }
 
