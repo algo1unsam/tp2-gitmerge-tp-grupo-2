@@ -1,10 +1,15 @@
 object algoritmo {
   
   method color() { 
-    return "Azul cobalto claro"
+        return "rojo"
     }
 }
 
 object buenosAires {}
 
+object laPampa {}
 
+
+object formosa {}
+
+object misiones {}
